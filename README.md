@@ -4,8 +4,8 @@
 <figure>
   <img src="images\architecture of YOLOv1.png" alt="loss">
   <figcaption>Gambar 2. Arsitektur YOLOv1 [1].</figcaption>
-</figure> 
-<b>Deskripsi: </b>
+</figure> <br> <br>
+<p><b>Deskripsi: </b></p>
 <ul> 
     <li>Input: 448 x 488 x 3</li>
     <li>Output: 7 * 7 * 30</li>
@@ -19,8 +19,8 @@
 <figure>
   <img src="images\loss function of YOLOv1.png" alt="loss">
   <figcaption>Gambar 2. Fungsi loss YOLOv1 [1].</figcaption>
-</figure>
-<b>Deskripsi:</b>
+</figure> <br><br>
+<p><b>Deskripsi: </b></p>
 <ul>
     <li><b>Baris pertama dan kedua</b>, loss untuk kesalahan predikdi koordinat (x, y, width, height).</li>
     <li><b>Baris ketiga</b>, loss untuk kesalahan iou score untuk sel yang ada objek.</li>
